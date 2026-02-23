@@ -4,6 +4,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/0125-valid-palindrome) |
 ## String
 |  |
@@ -14,6 +15,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
 | ------- |
