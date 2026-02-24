@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/0125-valid-palindrome) |
 ## Array
 |  |
@@ -25,4 +26,8 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/0013-roman-to-integer) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
