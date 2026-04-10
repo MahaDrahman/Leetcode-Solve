@@ -35,6 +35,7 @@
 | [0013-roman-to-integer](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/0013-roman-to-integer) |
 | [0168-excel-sheet-column-title](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/0258-add-digits) |
 ## Stack
 |  |
 | ------- |
@@ -43,4 +44,12 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/0088-merge-sorted-array) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
