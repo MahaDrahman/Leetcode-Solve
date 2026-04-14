@@ -36,6 +36,7 @@
 | [0168-excel-sheet-column-title](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/0258-add-digits) |
+| [0342-power-of-four](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/0342-power-of-four) |
 ## Stack
 |  |
 | ------- |
@@ -52,4 +53,12 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/0258-add-digits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
