@@ -16,6 +16,7 @@
 | [0058-length-of-last-word](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/0168-excel-sheet-column-title) |
+| [0415-add-strings](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/0415-add-strings) |
 ## Array
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | [0202-happy-number](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/0342-power-of-four) |
+| [0415-add-strings](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/0415-add-strings) |
 ## Stack
 |  |
 | ------- |
@@ -49,6 +51,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/0415-add-strings) |
 ## Number Theory
 |  |
 | ------- |
