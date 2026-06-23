@@ -37,6 +37,7 @@
 | [0168-excel-sheet-column-title](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/0258-add-digits) |
+| [0292-nim-game](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/0415-add-strings) |
 ## Stack
@@ -64,4 +65,12 @@
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/0342-power-of-four) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
