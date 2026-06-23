@@ -40,6 +40,7 @@
 | [0292-nim-game](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/0415-add-strings) |
+| [1025-divisor-game](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/1025-divisor-game) |
 ## Stack
 |  |
 | ------- |
@@ -69,8 +70,14 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/1025-divisor-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
