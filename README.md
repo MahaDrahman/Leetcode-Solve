@@ -16,6 +16,7 @@
 | [0058-length-of-last-word](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/0171-excel-sheet-column-number) |
 | [0415-add-strings](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/0415-add-strings) |
 ## Array
 |  |
@@ -35,6 +36,7 @@
 | [0009-palindrome-number](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/0013-roman-to-integer) |
 | [0168-excel-sheet-column-title](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/MahaDrahman/Leetcode-Solve/tree/master/0292-nim-game) |
